@@ -10,8 +10,8 @@ class Student:
         print(f"Major: {self.major}")
 
 
-student1 = Student("Ali", 123, "AI")
-student2 = Student("Sara", 456, "Computer")
+student1 = Student("hossein", 123, "Computer")
+student2 = Student("ana", 456, "Actor")
 
 print("Student 1:")
 student1.introduce()
